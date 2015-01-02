@@ -1,0 +1,13 @@
+name: reinoshispanoshub
+main: me.lacacatua.hub.Plugin
+version: 1.0
+author: lacacatua1993
+description: PLUGIN ORIGINAL DE REINOS-HISPANOS
+
+commands:
+  hub:
+    usage: /hub
+  lobby:
+    usage: /lobby
+  salir:
+    usage: /salir
