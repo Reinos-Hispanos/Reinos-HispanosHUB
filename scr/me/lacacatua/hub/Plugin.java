@@ -29,7 +29,7 @@ public class BungeeHub extends JavaPlugin
       DataOutputStream out = new DataOutputStream(b);
       try {
         out.writeUTF("Connect");
-        out.writeUTF(getConfig().getString("server name"));
+        out.writeUTF(getConfig().getString("nombre server"));
       } catch (IOException e) {
         e.printStackTrace();
       }
