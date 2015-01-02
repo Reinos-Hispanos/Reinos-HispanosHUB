@@ -1,0 +1,4 @@
+### Configuracion del Plugin ###
+
+#coloca el nombre del server entre las 2 '' Ejemplo 'nombreaqui'
+nombre server: 'lobby'
